@@ -1,0 +1,20 @@
+{
+  "name": "Osito AI Note Taker",
+  "short_name": "Osito Notes",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#161616",
+  "theme_color": "#232A68",
+  "icons": [
+    {
+      "src": "./ositologo white.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./ositologo blaktrans.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
